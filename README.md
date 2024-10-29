@@ -1,1 +1,2 @@
-# Calculator
+# Calculator Using HTML & CSS
+This project is a basic calculator built using HTML and CSS, featuring a clean, responsive design. It includes functional buttons for numbers and basic operations like addition, subtraction, multiplication, and division, providing a simple yet effective tool for basic calculations. This project highlights fundamental skills in front-end design and layout organization.
