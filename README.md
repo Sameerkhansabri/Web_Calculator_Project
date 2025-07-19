@@ -1,5 +1,7 @@
 🧮 Web-Based Calculator (HTML + CSS)
 
+<img width="1710" height="1107" alt="Calculator Overview" src="https://github.com/user-attachments/assets/82262d56-68a1-4aa2-93c5-0e91000b3782" />
+
 A responsive and beginner-friendly calculator designed using pure HTML and CSS. This project focuses on clean UI/UX design, intuitive button layouts, and efficient code structure—ideal for foundational learning in front-end development.
 
 🔹 Features:
